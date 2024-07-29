@@ -1,0 +1,27 @@
+.background {
+    background: linear-gradient(300deg, #00a2ff, #c34cff, #72efeb);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;   
+}
+.p1 {
+    width: 500px;
+    height: 700px;
+    border-radius: 5%;
+}
+h1 {
+    font-family: "Wittgenstein", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.featurette-heading{
+    font-style:italic;
+    font-weight: 900;      
+}
+.text{
+    height: 300px;
+    width: 600px;
+    border-radius: 4%;
+    border-color: #00a2ff;
+    border-width: 5px;
+}
